@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="Biblioteca"/>
+	<classpathentry kind="src" path="resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
+	<classpathentry kind="lib" path="C:/Users/A.Jr/Downloads/Javap4/itext-5.5.3/itextpdf-5.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A.Jr/Downloads/Javap4/itext-5.5.3/itextpdf-5.5.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A.Jr/Downloads/Javap4/itext-5.5.3/itextpdf-5.5.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A.Jr/Downloads/Javap4/itext-5.5.3/itext-pdfa-5.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A.Jr/Downloads/Javap4/itext-5.5.3/itext-pdfa-5.5.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A.Jr/Downloads/Javap4/itext-5.5.3/itext-pdfa-5.5.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A.Jr/Downloads/Javap4/itext-5.5.3/itext-xtra-5.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A.Jr/Downloads/Javap4/itext-5.5.3/itext-xtra-5.5.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A.Jr/Downloads/Javap4/itext-5.5.3/itext-xtra-5.5.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A.Jr/Downloads/Javap4/mysql-connector-java-5.1.37/mysql-connector-java-5.1.37/mysql-connector-java-5.1.37-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A.Jr/Downloads/Javap4/sqljdbc_4.1.5605.100_ptb/sqljdbc_4.1/ptb/sqljdbc41.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
