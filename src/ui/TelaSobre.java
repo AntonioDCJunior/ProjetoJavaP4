@@ -32,7 +32,7 @@ public class TelaSobre {
    }
   private void sobre(){
 	  
-	  //onde tem "insira o texto aqui vc vai escreve o sobre"
+	  
 	  JLabel texto = new JLabel("Desenvolvedores:");	  		
 	  JLabel texto1 = new JLabel("Antonio Júnior");
 	  JLabel texto2 = new JLabel("Flávio Henrique");
